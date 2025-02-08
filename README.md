@@ -1,4 +1,4 @@
-# Credit-Card-Analysis-Report
+# CreditCard-Trends
 
 This project analyzes credit card customer behavior and service performance using interactive dashboards. The Credit Card Customer Analysis focuses on customer demographics, job categories, satisfaction scores, and state-wise revenues. The Credit Card Service Report highlights transaction trends, revenue, delinquent accounts, and usage patterns. Together, these dashboards provide actionable insights for improving customer satisfaction and optimizing credit card services.
 
